@@ -170,6 +170,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "079a1e7fb2c7f409",
-  "lastOpenFiles": []
+  "active": "e8e38dd0eec1dcab",
+  "lastOpenFiles": [
+    "myenv/Lib/site-packages/mediapipe-0.10.21.dist-info/WHEEL",
+    "myenv/Lib/site-packages/mediapipe-0.10.21.dist-info/REQUESTED",
+    "myenv/Lib/site-packages/mediapipe-0.10.21.dist-info/top_level.txt",
+    "myenv/Lib/site-packages/mediapipe-0.10.21.dist-info/RECORD",
+    "myenv/Lib/site-packages/mediapipe-0.10.21.dist-info/METADATA",
+    "myenv/Lib/site-packages/mediapipe-0.10.21.dist-info/LICENSE",
+    "myenv/Lib/site-packages/mediapipe-0.10.21.dist-info/INSTALLER",
+    "myenv/Lib/site-packages/mediapipe-0.10.21.dist-info",
+    "myenv/Lib/site-packages/mediapipe/tasks/cc/text/language_detector/custom_ops/utils/utf/__pycache__/__init__.cpython-312.pyc",
+    "myenv/Lib/site-packages/mediapipe/tasks/cc/text/language_detector/custom_ops/utils/hash/__pycache__/__init__.cpython-312.pyc",
+    "myenv/Lib/site-packages/mediapipe/tasks/cc/text/language_detector/custom_ops/utils/__pycache__/__init__.cpython-312.pyc",
+    "myenv/Lib/site-packages/matplotlib/mpl-data/sample_data/Minduka_Present_Blue_Pack.png",
+    "myenv/Lib/site-packages/matplotlib/mpl-data/sample_data/logo2.png",
+    "myenv/Lib/site-packages/matplotlib/mpl-data/sample_data/grace_hopper.jpg",
+    "myenv/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.png",
+    "myenv/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect.svg",
+    "myenv/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect.png",
+    "myenv/Lib/site-packages/matplotlib/mpl-data/images/zoom_to_rect-symbolic.svg",
+    "myenv/Lib/site-packages/matplotlib/mpl-data/images/subplots_large.png",
+    "myenv/Lib/site-packages/matplotlib/mpl-data/images/subplots.svg",
+    "myenv/Lib/site-packages/matplotlib/mpl-data/images/subplots.png",
+    "myenv/Lib/site-packages/_sounddevice_data/portaudio-binaries/README.md",
+    "myenv/Lib/site-packages/scipy/fft/_pocketfft/LICENSE.md",
+    "myenv/Lib/site-packages/numpy/random/LICENSE.md",
+    "myenv/Lib/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "myenv/Lib/site-packages/~ip-25.2.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "myenv/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md",
+    "myvenv/Lib/site-packages/pip-25.2.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md"
+  ]
 }

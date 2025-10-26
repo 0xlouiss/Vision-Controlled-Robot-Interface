@@ -28,4 +28,5 @@ Provide instructions so reviewers can reproduce.
 ## Screenshots (if applicable)
 Include screenshots or GIFs of the UI, gestures detected, or hardware interaction.
 
-## Additional Notes
+**## Additional Notes
+**
