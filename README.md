@@ -9,7 +9,7 @@ Want to controll a robot with my hand.
 ## Research i need to do:
 
 ### 1. Camera
-- [ ] How to acces camera feed
+- [x] How to acces camera feed
 - [ ] How to detect an hand in an image
 - [ ] How to track key points (fingers)
 
